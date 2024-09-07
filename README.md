@@ -1,4 +1,4 @@
-# RAG_on_Resumes_dataset
+# RAG on Resumes Dataset using OPENAI and Langchain
 
 1. When you have new resumes add them into 'resumes' folder
 2. The resumes which are parsed perfectly are moved into 'parsed_successfully' folder and jsons are created in 'parsed_resumes_json' folder
